@@ -1,0 +1,25 @@
+table.table1 {
+   border: 1px solid #AACC55;
+}
+tr.tr1 {
+   color: black;
+   background-color:#EAF1D1;
+}
+tr.tr2 {
+   color: black;
+}
+th.th1 {
+   padding-top:4px;
+   padding-bottom:4px;
+   background-color:#AACC55;
+   color:#FFFFFF;
+   font-size: 16px;
+}
+td.td1 {
+   padding:0px;
+}
+
+.none {
+   background-color:transparent;
+}
+
